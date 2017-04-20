@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/ammario/ipisp"
+	"github.com/42wim/ipisp"
 )
 
 func main() {
